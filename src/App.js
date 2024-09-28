@@ -5,7 +5,7 @@ import MemberDetail from './MemberDetail';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/kguc-album-repeat">
       <Routes>
         <Route path="/" element={<MemberList />} />
         <Route path="/member/:id" element={<MemberDetail />} />
