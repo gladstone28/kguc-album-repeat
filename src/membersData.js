@@ -1,13 +1,14 @@
 const members = [
   {
     id: 1,
-    name: 'John Doe',
-    profilePicture: process.env.PUBLIC_URL + '/images/john.jpg',
-    description: 'Choir leader and head of the youth ministry.'
+    name: 'Natalya Rose',
+    profilePicture: process.env.PUBLIC_URL + '/images/natalya.jpg',
+    description: 'Church: Founding member of the original Powerpoint team: Career: Medical Doctor.'
   },
   {
     id: 2,
     name: 'Jane Smith',
+
     profilePicture: process.env.PUBLIC_URL + '/images/jane.jpg',
     description: 'Sunday School teacher and coordinator of community outreach programs.'
   },
@@ -21,7 +22,25 @@ const members = [
     id: 4,
     name: 'Alaina Rose',
     profilePicture: process.env.PUBLIC_URL + '/images/alaina.jpg',
-    description: 'Youth Fellowship Co-ordinator and member of the Technical Team.'
+    description: 'Church:Youth Fellowship Co-ordinator and member of the Technical Team - Career: Engineer.'
+  },
+{
+    id: 5,
+    name: 'Jeaneth Rose',
+    profilePicture: process.env.PUBLIC_URL + '/images/jeaneth.jpg',
+    description: 'Church: Choir Member and Deputy Board Chairman - Career: Quality Manager.'
+  },
+{
+    id: 6,
+    name: 'Nadia Rose',
+    profilePicture: process.env.PUBLIC_URL + '/images/nadia.jpg',
+    description: 'Church: Senior Member - Career: Medical Doctor.'
+  },
+{
+    id: 7,
+    name: 'John Brown',
+    profilePicture: process.env.PUBLIC_URL + '/images/john.jpg',
+    description: 'Church: This is a sample - Career: Sample Profession.'
   }
 
 
